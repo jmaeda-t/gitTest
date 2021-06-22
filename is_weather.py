@@ -23,7 +23,7 @@ class WeatherResponder:
         """
         # weather　HacksのURL
         # url = 'http://weather.livedoor.com/forecast/webservice/json/v1'
-        # livedoorの天気予報のURLは廃止されたので代替のURLを検索して以下URLにした
+        # livedoorの天気予報のURLは廃止されたので代替のURLを検索して以下にした
         url = 'https://weather.tsukumijima.net/api/forecast'
         # 'city'をキー、idをその値とした辞書オブジェクトを作成
         payload = {'city': id}

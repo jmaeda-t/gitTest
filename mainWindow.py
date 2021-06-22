@@ -10,7 +10,7 @@ import qt_MainWindowUI
 import is_weather
 
 class MainWindow(QtWidgets.QMainWindow):
-    """MainWindowクラス
+    """ 複数行コメント　MainWindowクラス
     QtWidgets.QmainWindowsを継承したサブクラスUI画面の構築を行う
     
     Attribute:
