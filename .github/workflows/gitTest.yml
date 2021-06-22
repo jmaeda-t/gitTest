@@ -3,7 +3,7 @@ name: gitTest
 on: [push]
 
 jobs:
-  Lint Test:
+  PythonLintTest:
 
     runs-on: ubuntu-latest
 
